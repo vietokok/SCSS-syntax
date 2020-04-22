@@ -1,4 +1,4 @@
-### The syntax and usage of sass
+## The syntax and usage of SCSS
 
 1. [Nested](./nested.md)
 2. [Nested Property](./nested-property.md)
