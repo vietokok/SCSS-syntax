@@ -1,4 +1,4 @@
-## @for and @whilte
+## @for and @while
   - **@for** 
   
     > to: < end, through: <= length
